@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="nenhum_parametro">Nenhum parâmetro!</string>
+    <string name="entrar_parametro">Entrar parâmetro</string>
+    <string name="entre_com_o_parametro">Entre com o parâmetro!</string>
+    <string name="enviar_parametro">Enviar parâmetro</string>
+</resources>
